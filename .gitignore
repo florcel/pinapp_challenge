@@ -1,0 +1,9 @@
+.env
+allure-results/
+allure-report/
+.pytest_cache/
+.venv/
+appium.log
+artifacts/
+__pycache__/
+*.pyc
